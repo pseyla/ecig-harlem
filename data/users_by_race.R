@@ -1,6 +1,6 @@
 library(tidyverse)
 
-users <- read.csv("../Percent_Smokers_by_Race.csv")
+users <- read.csv("../Percent_ecig_user_by_Race.csv")
 
 
 
